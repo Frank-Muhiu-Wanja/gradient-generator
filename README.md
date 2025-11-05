@@ -1,1 +1,5 @@
 # gradient-generator
+
+---
+
+![](Screenshot.png)
